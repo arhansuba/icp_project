@@ -1,4 +1,7 @@
 ICP Project
+
+
+
 This project is a blockchain application running on the Internet Computer Protocol (ICP). Developed in Rust language, the project aims to execute smart contracts on the DFINITY network and interact with a web interface.
 
 Getting Started
