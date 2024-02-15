@@ -1,0 +1,13 @@
+{
+  "canisters": {
+    "blockchain_canister": {
+      "main": "ic/src/main.rs",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "output": "canisters/"
+    }
+  }
+}

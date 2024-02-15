@@ -1,0 +1,12 @@
+[package]
+name = "blockchain"
+version = "0.1.0"
+authors = ["arhan>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "4.0"
+
+[[bin]]
+name = "app"
+path = "src/main.rs"
